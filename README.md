@@ -4,7 +4,7 @@ Este repositorio fue creado como práctica de clase.
 
 ## Integrante
 
-- Nombre del estudiante
+- Nombre del estudiante: Zuley Yurley Gomez Quinayas
 
 ## Comandos aprendidos
 
