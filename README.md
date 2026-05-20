@@ -5,6 +5,7 @@ Este repositorio fue creado como práctica de clase.
 ## Integrante
 
 - Nombre del estudiante: Zuley Yurley Gomez Quinayas
+- Curso: Ingenieria de software
 
 ## Comandos aprendidos
 
